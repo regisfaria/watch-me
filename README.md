@@ -24,6 +24,8 @@ Finally, run the application with:
 yarn dev OR npm run dev
 ```
 
+You will be able to access it on **http://localhost:8080**.
+
 ## Contact
 **Email: regisprogramming@gmail.com**
 [LinkedIn](https://www.linkedin.com/in/regissfaria/)
